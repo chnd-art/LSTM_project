@@ -1,4 +1,4 @@
-# Prediction du prix Bitcoin
+# Next Word Prediction Using LSTM
 ## Réseaux Neuronaux Récurrents
 ![Image](https://github.com/user-attachments/assets/557c2257-4b86-4f77-ac57-a45b6fa28ca8)
 ## Qu’est ce que le vanishing/ exploding Gradient Problem ?
